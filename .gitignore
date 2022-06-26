@@ -1,0 +1,10 @@
+
+# data
+*.csv
+*.parquet
+
+# virtualenv
+streamlit_venv/*
+
+# pycache
+**/__pycache__/*
